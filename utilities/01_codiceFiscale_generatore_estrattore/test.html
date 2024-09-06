@@ -1,0 +1,81 @@
+<!-- File di esempio per l'utilizzo -->
+
+<b>Codice fiscale: </b>
+<input id="codice_fiscale">
+
+<br><br>
+<b>Campi:</b>
+<br>
+Nome <input id="Nome">
+<br>
+Cognome <input id="Cognome">
+<br>
+Sesso <input id="sex">
+<br>
+Data di nascita <input id="nascita_data">
+<br>
+Comune di nascita <input id="nascita_comune">
+<br>
+Provincia di nascita <input id="nascita_provincia">
+<br><br>
+Check per invertire: (da campi a codice fiscale) <input id="inverti" type="checkbox">
+
+<script src="js/CodiceFiscale.js"></script>
+
+<script>
+
+    document.addEventListener("DOMContentLoaded", (event) => {
+        // Campi di input/output
+        let taxCode = document.getElementById('codice_fiscale');
+        let inverti = document.getElementById('inverti');
+
+        let nome = document.getElementById('Nome');
+        let cognome = document.getElementById('Cognome');
+        let sesso = document.getElementById('sex');
+        let dataNascita = document.getElementById('nascita_data');
+        let comuneNascita = document.getElementById('nascita_comune');
+        let provinciaNascita = document.getElementById('nascita_provincia');
+
+        const fields = [taxCode, nome, cognome, sesso, dataNascita, comuneNascita, provinciaNascita];
+
+        fields.forEach((field) => {
+            field.addEventListener('keyup', function () {
+                if (inverti.checked === false) {
+                    if (taxCode.value.length === 16) {
+                        let taxCodeValue = taxCode.value.toUpperCase();
+                        let codiceFiscale = new CodiceFiscale({
+                            name: "",
+                            lastname: "",
+                            day: "",
+                            month: "",
+                            year: "",
+                            isMale: false,
+                            comuneName: "",
+                            provinceCode: ""
+                        });
+                        let decoded = codiceFiscale.decodeTaxCode(taxCodeValue);
+
+                        sesso.value = decoded.isMale ? 'M' : 'F';
+                        dataNascita.value = decoded.year + '-' + String(decoded.month).padStart(2, '0') + '-' + String(decoded.day).padStart(2, '0');
+                        comuneNascita.value = decoded.comuneName;
+                        provinciaNascita.value = decoded.provinceCode;
+                    }
+                } else {
+                    let [year, month, day] = dataNascita.value.split("-");
+                    let male_female = sesso.value.toUpperCase() == "M" ? true : false;
+                    let person = new CodiceFiscale({
+                        name: nome.value,
+                        lastname: cognome.value,
+                        day: day,
+                        month: month,
+                        year: year,
+                        isMale: male_female,
+                        comuneName: comuneNascita.value,
+                    });
+                    taxCode.value = person.taxCode();
+                }
+            });
+        });
+    });
+
+</script>

@@ -1,0 +1,477 @@
+[
+    {
+        "settore": "A - AGRICOLTURA",
+        "codice": "A01",
+        "sottosettore": "operai agricoli e florovivaisti; impiegati, quadri e dirigenti dell'agricoltura"
+    },
+    {
+        "settore": "A - AGRICOLTURA",
+        "codice": "A02",
+        "sottosettore": "attivit\u00e0 di contoterzismo in agricoltura"
+    },
+    {
+        "settore": "A - AGRICOLTURA",
+        "codice": "A03",
+        "sottosettore": "consorzi di bonifica e di miglioramento fondiario, sistemazioni idraulico-forestali"
+    },
+    {
+        "settore": "A - AGRICOLTURA",
+        "codice": "A04",
+        "sottosettore": "consorzi agrari"
+    },
+    {
+        "settore": "A - AGRICOLTURA",
+        "codice": "A05",
+        "sottosettore": "settore zootecnico"
+    },
+    {
+        "settore": "B - CHIMICI",
+        "codice": "B01",
+        "sottosettore": "industria chimica, chimica farmaceutica, fibre chimiche, ceramica e abrasivi"
+    },
+    {
+        "settore": "B - CHIMICI",
+        "codice": "B02",
+        "sottosettore": "settore conciario"
+    },
+    {
+        "settore": "B - CHIMICI",
+        "codice": "B03",
+        "sottosettore": "piastrelle di ceramica e dei materiali refrattari"
+    },
+    {
+        "settore": "B - CHIMICI",
+        "codice": "B04",
+        "sottosettore": "settore del vetro e delle lampade"
+    },
+    {
+        "settore": "B - CHIMICI",
+        "codice": "B05",
+        "sottosettore": "energia e del petrolio"
+    },
+    {
+        "settore": "B - CHIMICI",
+        "codice": "B06",
+        "sottosettore": "attivit\u00e0 minerarie"
+    },
+    {
+        "settore": "B - CHIMICI",
+        "codice": "B07",
+        "sottosettore": "settore della gomma e della plastica"
+    },
+    {
+        "settore": "C - MECCANICI",
+        "codice": "C01",
+        "sottosettore": "settore metalmeccanico e installazione di impianti"
+    },
+    {
+        "settore": "C - MECCANICI",
+        "codice": "C02",
+        "sottosettore": "settore orafo, argentiero e della gioielleria"
+    },
+    {
+        "settore": "D - TESSILI",
+        "codice": "D01",
+        "sottosettore": "industrie tessili e dell'abbigliamento"
+    },
+    {
+        "settore": "D - TESSILI",
+        "codice": "D02",
+        "sottosettore": "sistema industriale integrato di beni e servizi tessili e medici affini (lavanderie industriali e sterilizzazione strumentario chirurgico)"
+    },
+    {
+        "settore": "D - TESSILI",
+        "codice": "D03",
+        "sottosettore": "industrie dei settori pelli e succedanei, produzione di ombrelli-ombrelloni"
+    },
+    {
+        "settore": "D - TESSILI",
+        "codice": "D04",
+        "sottosettore": "industria delle calzature"
+    },
+    {
+        "settore": "D - TESSILI",
+        "codice": "D05",
+        "sottosettore": "settore giocattoli, giochi, modellismo"
+    },
+    {
+        "settore": "D - TESSILI",
+        "codice": "D06",
+        "sottosettore": "produzione di penne, matite, parti staccate di matite, penne, articoli affini e per gli addetti alle aziende produttrici di spazzole, pennelli, scope e preparatrici relative materie prime"
+    },
+    {
+        "settore": "D - TESSILI",
+        "codice": "D07",
+        "sottosettore": "settore occhiali e articoli inerenti l'occhialeria"
+    },
+    {
+        "settore": "E - ALIMENTARISTI",
+        "codice": "E01",
+        "sottosettore": "industrie alimentari"
+    },
+    {
+        "settore": "E - ALIMENTARISTI",
+        "codice": "E02",
+        "sottosettore": "pesca"
+    },
+    {
+        "settore": "E - ALIMENTARISTI",
+        "codice": "E03",
+        "sottosettore": " lavorazione della foglia di tabacco"
+    },
+    {
+        "settore": "E - ALIMENTARISTI",
+        "codice": "E04",
+        "sottosettore": "panificazione - produzione e vendita"
+    },
+    {
+        "settore": "F- EDILIZIA, LEGNO E ARREDAMENTO ",
+        "codice": "F01",
+        "sottosettore": "aziende edili"
+    },
+    {
+        "settore": "F- EDILIZIA, LEGNO E ARREDAMENTO ",
+        "codice": "F02",
+        "sottosettore": "produzione di laterizi e manufatti in cemento "
+    },
+    {
+        "settore": "F- EDILIZIA, LEGNO E ARREDAMENTO ",
+        "codice": "F03",
+        "sottosettore": "produzione di cemento, calce, gesso e malte"
+    },
+    {
+        "settore": "F- EDILIZIA, LEGNO E ARREDAMENTO ",
+        "codice": "F04",
+        "sottosettore": "escavazione e lavorazione dei materiali lapidei, ghiaia, sabbia e inerti"
+    },
+    {
+        "settore": "F- EDILIZIA, LEGNO E ARREDAMENTO ",
+        "codice": "F05",
+        "sottosettore": "settori legno, sughero, mobile ed arredamento e boschivi e forestali"
+    },
+    {
+        "settore": "F- EDILIZIA, LEGNO E ARREDAMENTO ",
+        "codice": "F06",
+        "sottosettore": "costruzione di strade ed autostrade"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G01",
+        "sottosettore": "settore cartario e cartotecnico"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G02",
+        "sottosettore": "settore grafico ed editoriale"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G03",
+        "sottosettore": "videofonografici"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G04",
+        "sottosettore": "fotolaboratori"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G05",
+        "sottosettore": "filiera del cinema e dell'audiovisivo (industria, troupes, doppiaggio, generici, esercizi cinematografici)"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G06",
+        "sottosettore": "Teatri e Fondazioni Lirico Sinfoniche (artisti, tecnici, impiegati) e Professori d'orchestra della RAI"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G07",
+        "sottosettore": "settore della Comunicazione e dei servizi innovativi per le imprese"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G08",
+        "sottosettore": "imprese radio televisive, multimediali e multipiattaforma"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G09",
+        "sottosettore": "giornalisti"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G10",
+        "sottosettore": "ippica"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G11",
+        "sottosettore": "aziende editrici e stampatrici di giornali quotidiani ed agenzie di stampa"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G12",
+        "sottosettore": "produzione culturale e spettacolo  "
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G13",
+        "sottosettore": "SIAE"
+    },
+    {
+        "settore": "G- POLIGRAFICI E SPETTACOLO",
+        "codice": "G14",
+        "sottosettore": "aziende aereofotogrammetriche"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H01",
+        "sottosettore": "terziario, distribuzione e servizi"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H02",
+        "sottosettore": "turismo"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H03",
+        "sottosettore": "pubblici esercizi, ristorazione collettiva e commerciale"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H04",
+        "sottosettore": "aziende ortofrutticole ed agrumarie"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H05",
+        "sottosettore": "vigilanza privata e servizi fiduciari"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H06",
+        "sottosettore": "agenti immobiliari e mandatari"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H07",
+        "sottosettore": "farmacie"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H08",
+        "sottosettore": "fiori, verde e piante ornamentali "
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H09",
+        "sottosettore": "proprietari di fabbricati"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H10",
+        "sottosettore": "amministratori di condominio"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H11",
+        "sottosettore": "studi professionali"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H13",
+        "sottosettore": "acconciatura, estetica, tricologia non curativa, tatuaggio, piercing e centri benessere"
+    },
+    {
+        "settore": "H - TERZIARIO, SERVIZI",
+        "codice": "H14",
+        "sottosettore": "impianti e attivit\u00e0 sportive"
+    },
+    {
+        "settore": "H1 - LAVORO DOMESTICO E DI CURA",
+        "codice": "H12",
+        "sottosettore": "lavoro domestico e di cura"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I01",
+        "sottosettore": "logistica, trasporto merci e spedizione"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I02",
+        "sottosettore": "trasporto marittimo e porti"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I03",
+        "sottosettore": "ferrovie"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I04",
+        "sottosettore": "trasporto aereo"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I05",
+        "sottosettore": "Autoferrotranvieri e Internavigatori (Mobilit\u00e0 - TPL)"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I06",
+        "sottosettore": "radiotaxi e autoservizi pubblici non di linea, autoservizi privati"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I07",
+        "sottosettore": "settore funerario"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I08",
+        "sottosettore": "autoscuole, scuole nautiche, studi di consulenza automobilistica e nautica"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I09",
+        "sottosettore": "trasporto a fune"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I10",
+        "sottosettore": "societ\u00e0 e consorzi concessionari di autostrade e trafori"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I11",
+        "sottosettore": "servizi in appalto per conto dell'Amministrazione della Difesa, Interni, Giustizia, Forze dell'Ordine e Amministrazioni militari"
+    },
+    {
+        "settore": "I - TRASPORTI",
+        "codice": "I12",
+        "sottosettore": "agenzie marittime raccomandatarie e mediatori marittimi"
+    },
+    {
+        "settore": "J - CREDITO E ASSICURAZIONI",
+        "codice": "J01",
+        "sottosettore": "credito ed assicurazioni"
+    },
+    {
+        "settore": "J - CREDITO E ASSICURAZIONI",
+        "codice": "J02",
+        "sottosettore": "Banca d'Italia e riscossione tributi"
+    },
+    {
+        "settore": "K - AZIENDE DI SERVIZI",
+        "codice": "K01",
+        "sottosettore": "aziende elettriche"
+    },
+    {
+        "settore": "K - AZIENDE DI SERVIZI",
+        "codice": "K02",
+        "sottosettore": "gas e acqua"
+    },
+    {
+        "settore": "K - AZIENDE DI SERVIZI",
+        "codice": "K03",
+        "sottosettore": "telecomunicazioni"
+    },
+    {
+        "settore": "K - AZIENDE DI SERVIZI",
+        "codice": "K04",
+        "sottosettore": "aziende termali"
+    },
+    {
+        "settore": "K - AZIENDE DI SERVIZI",
+        "codice": "K05",
+        "sottosettore": "pulizia, facility management, servizi integrati"
+    },
+    {
+        "settore": "K - AZIENDE DI SERVIZI",
+        "codice": "K06",
+        "sottosettore": "CONI servizi e federazioni sportive"
+    },
+    {
+        "settore": "K - AZIENDE DI SERVIZI",
+        "codice": "K07",
+        "sottosettore": "servizi ambientali"
+    },
+    {
+        "settore": "K - AZIENDE DI SERVIZI",
+        "codice": "K08",
+        "sottosettore": "servizi postali"
+    },
+    {
+        "settore": "T - ISTRUZIONE, SANITA', ASSISTENZA, CULTURA, ENTI",
+        "codice": "T01",
+        "sottosettore": "scuola non statale"
+    },
+    {
+        "settore": "T - ISTRUZIONE, SANITA', ASSISTENZA, CULTURA, ENTI",
+        "codice": "T02",
+        "sottosettore": "universit\u00e0 non statale"
+    },
+    {
+        "settore": "T - ISTRUZIONE, SANITA', ASSISTENZA, CULTURA, ENTI",
+        "codice": "T03",
+        "sottosettore": "formazione professionale"
+    },
+    {
+        "settore": "T - ISTRUZIONE, SANITA', ASSISTENZA, CULTURA, ENTI",
+        "codice": "T04",
+        "sottosettore": "sanit\u00e0 non statale"
+    },
+    {
+        "settore": "T - ISTRUZIONE, SANITA', ASSISTENZA, CULTURA, ENTI",
+        "codice": "T05",
+        "sottosettore": "assistenza non statale"
+    },
+    {
+        "settore": "T - ISTRUZIONE, SANITA', ASSISTENZA, CULTURA, ENTI",
+        "codice": "T06",
+        "sottosettore": "cultura"
+    },
+    {
+        "settore": "T - ISTRUZIONE, SANITA', ASSISTENZA, CULTURA, ENTI",
+        "codice": "T07",
+        "sottosettore": "enti e istituzioni private, pubbliche e del terzo settore"
+    },
+    {
+        "settore": "T - ISTRUZIONE, SANITA', ASSISTENZA, CULTURA, ENTI",
+        "codice": "T08",
+        "sottosettore": "regolamenti contrattuali per i dipendenti dei sindacati"
+    },
+    {
+        "settore": "V - CCNL PLURISETTORIALI, MICROSETTORIALI e ALTRI",
+        "codice": "V01",
+        "sottosettore": "dirigenti di azienda (CCNL plurisettoriali)"
+    },
+    {
+        "settore": "V - CCNL PLURISETTORIALI, MICROSETTORIALI e ALTRI",
+        "codice": "V02",
+        "sottosettore": "agenzie di somministrazione di lavoro"
+    },
+    {
+        "settore": "V - CCNL PLURISETTORIALI, MICROSETTORIALI e ALTRI",
+        "codice": "V03",
+        "sottosettore": "CCNL plurisettoriali del settore manifatturiero delle organizzazioni degli artigiani PMI rappresentate al CNEL"
+    },
+    {
+        "settore": "V - CCNL PLURISETTORIALI, MICROSETTORIALI e ALTRI",
+        "codice": "V04",
+        "sottosettore": "Ambasciate, Consolati, Legazioni, Istituti culturali, Organismi Internazionali, basi USA in Italia"
+    },
+    {
+        "settore": "V - CCNL PLURISETTORIALI, MICROSETTORIALI e ALTRI",
+        "codice": "V05",
+        "sottosettore": "istituti per il sostentamento del clero"
+    },
+    {
+        "settore": "V - CCNL PLURISETTORIALI, MICROSETTORIALI e ALTRI",
+        "codice": "V06",
+        "sottosettore": "CCNL plurisettoriali, microsettoriali, altri e vari"
+    }
+]
